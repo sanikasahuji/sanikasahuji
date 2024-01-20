@@ -1,4 +1,6 @@
-<h1 align="center">Hello👋, I'm Sanika Sahuji</h1>
+<h1 align="center">Hey there👋, I'm Sanika!</h1>
+<img width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdsZmxhOTFkY3N0bXBnaWhja3FxejN5OXhoenQzMTBzNzVsa3A5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="about me"/>
+
 - 📫 How to reach me **sanikasahuji12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
